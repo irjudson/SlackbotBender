@@ -19,6 +19,7 @@ var help = {
                          '!vso repos ("Show me our VSO repos"): Lists our Visual Studio Online Git repositories.\n' +
                          '!yell ("yell"): Bender will yell stuff for you.\n' +
                          '!curse [user|someone]: Have bender vent his spleen on a colleague.\n',
+                         '!fortune: Have bender return a random fortune.\n'
                 'short': false 
             }
         ]
